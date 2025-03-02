@@ -1,0 +1,10 @@
+#employeeTable_wrapper .dataTables_filter {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.del:hover{
+    background-color: black !important;
+    border: 1px solid black !important;
+    color: #fefefe !important
+}
